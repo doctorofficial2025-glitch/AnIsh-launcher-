@@ -1,0 +1,6 @@
+{
+  "name": "Game Space",
+  "description": "An AI-powered gaming dashboard with performance monitoring and game controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
